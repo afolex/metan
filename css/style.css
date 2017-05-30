@@ -1,0 +1,41 @@
+#btnl {
+    width: auto;  
+    padding: 9px 25px;  
+    background: #aaa;  
+    border: 0;  
+    font-size: 14px;  
+    color: #fff;
+}
+#b1 {    
+    margin: auto;
+    padding: 9px 35px;
+    position:relative;
+    float:left;
+    }   
+#btnr {
+    margin: 0px 10px 10px 0px;
+    float:right;
+    }
+#h1 {
+    margin: auto;
+    width: 50%;
+     
+    }
+p.btn1l {
+    margin: 20px 20px 20px 20px;
+    padding: 16px;
+    float:left;
+    }
+#leftp {
+    float:right;
+    }
+    
+td#m1 {
+    background: black;
+    } 
+td#span-row {
+    background: rgb(200, 200, 200);
+    }        
+.ftable td.span-row {    
+    background: blue;
+    }        
